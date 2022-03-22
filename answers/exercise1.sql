@@ -1,1 +1,1 @@
-create myNewDB
+create database myNewDB
