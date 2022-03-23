@@ -1,1 +1,1 @@
-drop database myNewDB
+mysql> drop database myNewDB;
